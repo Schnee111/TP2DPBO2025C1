@@ -5,7 +5,8 @@ Saya, **Muhammad Daffa Ma'arif** dengan NIM 2305771, mengerjakan Tugas Praktikum
 Maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. **Aamiin.** 
 
 ## **Diagram**
-![image](https://github.com/user-attachments/assets/e622c311-a7c8-46d7-84cd-69aa369e6e86)
+![image](https://github.com/user-attachments/assets/1838e8a4-1b6b-4421-a5ea-8eb434fcd2b5)
+
 
 ## **Desain**
 terdiri dari 3 class, yaitu PetShop, Aksesoris, dan Baju. Program menggunakan Multilevel Inheritance, dengan PetShop sebagai class induk, dilanjutkan dengan Aksesoris, dan Baju sebagai class paling bawah. Berikut masing-masing atribut class:
