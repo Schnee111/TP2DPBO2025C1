@@ -34,3 +34,5 @@ ketika program dijalankan, user akan diberi 3 pilihan:
 3. exit = keluar program
 
 user dapat melakukan aksi tersebut sebanyak banyaknya, dan dapat memilih aksi exit untuk keluar program jika selesai
+
+### *input bisa digunakan untuk semua program kecuali php*
