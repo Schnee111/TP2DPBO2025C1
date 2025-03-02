@@ -1,8 +1,7 @@
 # Tugas Praktikum 2 - DPBO
 
 ## **Janji**
-Saya, **Muhammad Daffa Ma'arif** dengan NIM 2305771, mengerjakan Tugas Praktikum 2 dalam mata kuliah **DPBO** untuk keberkahan-Nya.  
-Maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. **Aamiin.** 
+Saya, **Muhammad Daffa Ma'arif** dengan NIM 2305771, mengerjakan Tugas Praktikum 2 dalam mata kuliah **DPBO** untuk keberkahan-Nya. Maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. **Aamiin.** 
 
 ## **Diagram**
 ![image](https://github.com/user-attachments/assets/1838e8a4-1b6b-4421-a5ea-8eb434fcd2b5)
